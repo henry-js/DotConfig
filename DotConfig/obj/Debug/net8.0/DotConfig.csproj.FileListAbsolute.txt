@@ -1,0 +1,12 @@
+c:\Users\jhenry\source\repos\DotConfig\DotConfig\bin\Debug\net8.0\DotConfig.deps.json
+c:\Users\jhenry\source\repos\DotConfig\DotConfig\bin\Debug\net8.0\DotConfig.dll
+c:\Users\jhenry\source\repos\DotConfig\DotConfig\bin\Debug\net8.0\DotConfig.pdb
+c:\Users\jhenry\source\repos\DotConfig\DotConfig\obj\Debug\net8.0\DotConfig.csproj.AssemblyReference.cache
+c:\Users\jhenry\source\repos\DotConfig\DotConfig\obj\Debug\net8.0\DotConfig.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jhenry\source\repos\DotConfig\DotConfig\obj\Debug\net8.0\DotConfig.AssemblyInfoInputs.cache
+c:\Users\jhenry\source\repos\DotConfig\DotConfig\obj\Debug\net8.0\DotConfig.AssemblyInfo.cs
+c:\Users\jhenry\source\repos\DotConfig\DotConfig\obj\Debug\net8.0\DotConfig.csproj.CoreCompileInputs.cache
+c:\Users\jhenry\source\repos\DotConfig\DotConfig\obj\Debug\net8.0\DotConfig.dll
+c:\Users\jhenry\source\repos\DotConfig\DotConfig\obj\Debug\net8.0\refint\DotConfig.dll
+c:\Users\jhenry\source\repos\DotConfig\DotConfig\obj\Debug\net8.0\DotConfig.pdb
+c:\Users\jhenry\source\repos\DotConfig\DotConfig\obj\Debug\net8.0\ref\DotConfig.dll

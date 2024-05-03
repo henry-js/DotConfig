@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotConfig", "DotConfig\DotConfig.csproj", "{B6B148BA-8E78-48CC-A0C1-F60F602C0DC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotConfig.Tests", "DotConfig.Tests\DotConfig.Tests.csproj", "{2BC710F5-DD7E-4CC8-875E-DEECA985E9D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6B148BA-8E78-48CC-A0C1-F60F602C0DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B148BA-8E78-48CC-A0C1-F60F602C0DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B148BA-8E78-48CC-A0C1-F60F602C0DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B148BA-8E78-48CC-A0C1-F60F602C0DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BC710F5-DD7E-4CC8-875E-DEECA985E9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC710F5-DD7E-4CC8-875E-DEECA985E9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC710F5-DD7E-4CC8-875E-DEECA985E9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC710F5-DD7E-4CC8-875E-DEECA985E9D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
